@@ -1,0 +1,11 @@
+C:\ANVAR\HOME\obj\Debug\netcoreapp3.1\HOME.csprojAssemblyReference.cache
+C:\ANVAR\HOME\obj\Debug\netcoreapp3.1\HOME.AssemblyInfoInputs.cache
+C:\ANVAR\HOME\obj\Debug\netcoreapp3.1\HOME.AssemblyInfo.cs
+C:\ANVAR\HOME\bin\Debug\netcoreapp3.1\HOME.exe
+C:\ANVAR\HOME\bin\Debug\netcoreapp3.1\HOME.deps.json
+C:\ANVAR\HOME\bin\Debug\netcoreapp3.1\HOME.runtimeconfig.json
+C:\ANVAR\HOME\bin\Debug\netcoreapp3.1\HOME.runtimeconfig.dev.json
+C:\ANVAR\HOME\bin\Debug\netcoreapp3.1\HOME.dll
+C:\ANVAR\HOME\bin\Debug\netcoreapp3.1\HOME.pdb
+C:\ANVAR\HOME\obj\Debug\netcoreapp3.1\HOME.dll
+C:\ANVAR\HOME\obj\Debug\netcoreapp3.1\HOME.pdb
